@@ -1,21 +1,36 @@
 # Level 1 Frontend Task: BivyTech Landing Page Clone
 
-![BivyTech Clone Screenshot](./assets/images/bivytech-clone-screenshot.png)
+![BivyTech Clone Screenshot](./assets/bivytech-clone-screenshot.png)
 
-## Credits and Attribution
+## Credits 
+This project is a **learning exercise** and unofficial clone of the original [BivyTech](https://bivytech.space) website.
 
-This project is a **learning exercise** and unofficial clone of the original [BivyTech](https://bivytech.space) website. All rights belong to the respective owners.
+📝 **Task Origin**:  
+This project was completed as part of a frontend development project from [BivyTech](https://bivytech.space).
 
-### Original Work
-- **BivyTech Official Site**: [https://bivytech.space](https://bivytech.space)
-- Design and content Â© BivyTech (or respective copyright holders)
-- Used strictly for educational purposes under **Fair Use**
+💻 **My Implementation**:  
+- 100% original code written by EMMANUEL UDODIRIM 
+- Created following assignment guidelines  
+- Does not contain proprietary BivyTech code  
 
-### Disclaimer
-This clone:
-- Contains no proprietary business logic or confidential information
-- Will be removed upon request from copyright holders
+🖼️ **Assets Used**:  
+- All visual elements recreated from scratch  
+- Placeholder images from [Unsplash](https://unsplash.com)  
+- Placeholder images from [Bivytech](https://www.bivytech.space/)  
+- Icons from [Font Awesome Free](https://fontawesome.com)  
 
+📜 **Submission Context**:  
+Created for educational purposes as part of BivyTech's recruitment/assessment process. Not affiliated with BivyTech's official products.
+
+---
+
+## Disclaimer
+
+This repository contains my original work completed for a BivyTech assignment. All company names and related imagery are used for descriptive purposes only. No copyright infringement intended.
+
+For assignment verification:  
+🔗 [Original Task Brief](#) *(https://sytyatsquad1.slack.com/archives/C091U8A0S20/p1753030671365739)*  
+📅 Submitted on: [July, 2025]  
 
 ## Project Overview
 A responsive clone of the [BivyTech](https://bivytech.space) landing page, featuring:
@@ -26,16 +41,18 @@ A responsive clone of the [BivyTech](https://bivytech.space) landing page, featu
 - Clean component-based architecture
 
 ## Live Demo
-ðŸ”— [View on GitHub Pages](https://emmytronix.github.io/Level1_Frontend_LandingPage_YourName/)
-## Features Implemented
-âœ… Responsive layout (mobile, tablet, desktop)  
-âœ… Dark/light mode toggle with CSS variables  
-âœ… Interactive hover animations on buttons  
-âœ… Semantic HTML structure  
-âœ… Accessible design principles  
+🔗 [View on GitHub Pages](https://emmytronix.github.io/Level1_Frontend_LandingPage_Emmanuel_Udodirim/)
+
+
+✅ Responsive layout (mobile, tablet, desktop)  
+✅ Dark/light mode toggle with CSS variables  
+✅ Interactive hover animations on buttons  
+✅ Semantic HTML structure  
+✅ Accessible design principles  
+
 
 ## Technologies Used
-- HTML5
-- CSS3 (Flexbox, Grid, Variables, Media Queries)
-- JavaScript (for theme switching)
-- Git/GitHub for version control
+- **HTML5** - Semantic document structure
+- **CSS3** - Flexbox, Grid, Variables, Media Queries
+- **JavaScript** - Theme switching functionality
+- **Git/GitHub** - Version control and deployment
