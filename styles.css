@@ -1208,6 +1208,7 @@ blockquote {
     }
 }
 
+
 /* Contact Section */
 .contact-section {
     padding: 80px 0;
@@ -1479,3 +1480,4 @@ blockquote {
         grid-template-columns: 1fr;
     }
 }
+

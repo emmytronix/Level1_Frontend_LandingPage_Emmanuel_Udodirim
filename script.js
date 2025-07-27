@@ -177,3 +177,9 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 });
+
+// =============================================
+// Educational Clone Project - Not for Commercial Use
+// Original design concept from BivyTech
+// Coded from scratch by EMMANUEL UDODIRIM @ 2025
+// =============================================
