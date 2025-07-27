@@ -1299,10 +1299,10 @@ blockquote {
 
 /* Footer */
 .footer {
-    background-color: var(--footer-bg, var(--dark-color));
-    color: var(--footer-text, var(--white));
+    background-color: #343a40; 
+    color: #ffffff; /* Fixed text color */
     padding: 40px 0 0;
-    border-top: 1px solid var(--footer-border, rgba(255, 255, 255, 0.1));
+    border-top: 1px solid rgba(255, 255, 255, 0.1); 
 }
 
 .footer-content {
