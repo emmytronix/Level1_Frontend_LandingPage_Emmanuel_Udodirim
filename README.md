@@ -1,6 +1,6 @@
 # Level 1 Frontend Task: BivyTech Landing Page Clone
 
-![BivyTech Clone Screenshot](./assets/bivytech-clone-screenshot.png)
+![BivyTech Clone Screenshot](./Assets/bivytech-clone-screenshot.PNG)
 
 ## Credits 
 This project is a **learning exercise** and unofficial clone of the original [BivyTech](https://bivytech.space) website.
