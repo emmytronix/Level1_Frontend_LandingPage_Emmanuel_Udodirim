@@ -19,10 +19,6 @@ This project was completed as part of a frontend development project from [BivyT
 - Placeholder images from [Bivytech](https://www.bivytech.space/)  
 - Icons from [Font Awesome Free](https://fontawesome.com)  
 
-📜 **Submission Context**:  
-Created for educational purposes as part of BivyTech's recruitment/assessment process. Not affiliated with BivyTech's official products.
-
----
 
 ## Disclaimer
 
